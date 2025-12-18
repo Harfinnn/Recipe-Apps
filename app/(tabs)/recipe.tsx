@@ -86,7 +86,3 @@ const RecipeScreen = () => {
 
 
 export default RecipeScreen;
-
-const styles = StyleSheet.create({
-
-});
